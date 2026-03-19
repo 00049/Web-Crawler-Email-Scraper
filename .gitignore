@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.txt        # excludes output email files
+.env
+venv/
